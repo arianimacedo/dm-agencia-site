@@ -8,7 +8,7 @@ import Steps from "../src/components/Steps";
 import Testimonials from "../src/components/Testmonials";
 import Cta from "../src/components/Cta";
 
-export default function Page() {
+export default function HomePage() {
   return (
     <>     
       <Home />
