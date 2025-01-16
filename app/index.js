@@ -1,12 +1,12 @@
 "use client";
 
-import Home from "../src/components/Home";
-import Services from "../src/components/Services";
-import About from "../src/components/About";
-import Projects from "../src/components/Projects";
-import Steps from "../src/components/Steps";
-import Testimonials from "../src/components/Testmonials";
-import Cta from "../src/components/Cta";
+import Home from "@/components/Home";
+import Services from "@/components/Services";
+import About from "@/components/About";
+import Projects from "@/components/Projects";
+import Steps from "@/components/Steps";
+import Testimonials from "@/components/Testmonials";
+import Cta from "@/components/Cta";
 
 export default function HomePage() {
   return (
