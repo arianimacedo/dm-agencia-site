@@ -4,5 +4,11 @@
       "src": "src/app/**/*",
       "use": "@vercel/next"
     }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "src/app/$1"
+    }
   ]
 }
