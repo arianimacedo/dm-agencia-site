@@ -13,8 +13,12 @@ export default function Footer() {
             <h2 className="text-3xl font-bold">DM</h2>
             <p className="mt-2 text-sm font-extralight">AGÊNCIA DE MARKETING</p>
             <p className="mt-2 text-gray-700 text-sm">
-              Experiência avançada em design e desenvolvimento web.
+              Experiência avançada em design
             </p>
+            <p className="mt-2 text-gray-700 text-sm">
+              e desenvolvimento web.
+            </p>
+
           </div>
   
           {/* Coluna 2 */}
